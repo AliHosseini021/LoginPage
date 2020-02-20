@@ -1,0 +1,70 @@
+body
+ {
+    background: url(bg.jpg);
+    text-align: center;
+    background-size: cover;
+}
+
+
+h1 
+{
+    color: white;
+    font-size: 80px;
+}
+
+h2 
+{
+    font-size: 50px;
+    color: white;
+}
+
+.first input
+{
+    padding: 5px;
+    margin-top: 40px;
+    direction: rtl;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    width: 35%;
+    max-width: 100%;
+    <i class="fas fa-user"></i>
+}
+
+::placeholder
+{
+color: white;
+font-size: 20px;
+}
+button
+{
+    color: white;
+    background-color:rgb(42, 42, 218);
+    border: none;
+    border-radius: 8px;
+font-size:25px;
+width: 20%;
+margin-top: 40px;
+height: 50px;
+}
+.checkbox
+{
+color: white;
+margin-top:10px ;
+font-size:10px;
+position: relative;
+display: inline-block;
+float: left;
+
+}
+img
+{
+margin-top: 30px;
+width: 30px;
+height: 30px;
+}
+i{
+    color: white;
+direction: ltr;
+    
+}
